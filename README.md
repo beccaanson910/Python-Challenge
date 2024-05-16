@@ -18,3 +18,6 @@ The following values were calulated:
         c. The percentage and total number of votes that each candidate won
         d. The winner of the election
 A SS of the txt file with the results and the script from python has been added to the main PyPoll folder
+
+
+Note: Had Tutors and Learning Assistants help me with the codes
